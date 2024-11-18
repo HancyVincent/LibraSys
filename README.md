@@ -1,7 +1,7 @@
-# Library Management System
+# LibraSys
 
 ## Description
-The **Library Management System** is a console-based application developed in Java. It allows users to manage books, patrons, and borrow records for a simple library system. The system supports functionality such as adding books, registering patrons, borrowing books, returning books, and viewing available books.
+The **LibraSys** is a console-based application developed in Java. It allows users to manage books, patrons, and borrow records for a simple library system. The system supports functionality such as adding books, registering patrons, borrowing books, returning books, and viewing available books.
 
 ### Features:
 - Add books to the library.
@@ -12,7 +12,7 @@ The **Library Management System** is a console-based application developed in Ja
 
 ## Project Structure
 ```
-LibraryManagementSystem/
+LibraSys/
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -80,7 +80,7 @@ When the program is running, you will be prompted with a menu of operations:
 6. Exit and save the current records.
 #### Example Interaction:
 ```bash
-Library Management System
+LibraSys
 1. Add Book
 2. Register Patron
 3. Borrow Book
